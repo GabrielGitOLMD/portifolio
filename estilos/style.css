@@ -46,6 +46,7 @@ main{
 }
 #redesSociais{
     text-align: left;
+
     
 }
 #redesSociais img:hover{
@@ -57,7 +58,7 @@ main{
 }
 #redesSociais img{
     width: 50px;
-    margin: 10px;
+    margin: 0px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.356);
     box-sizing: border-box;
